@@ -1,1 +1,0 @@
-FROM puckel/docker-airflow:2.0.0.dev0
